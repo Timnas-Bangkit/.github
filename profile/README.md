@@ -41,3 +41,17 @@ FindUp is an innovative app dedicated to strengthening Indonesia’s thriving st
 ---
 
 ## Tech Stack
+
+### Machine Learning
+- **Tech Stack**: TensorFlow & Keras
+- **[Model Repository](https://github.com/Timnas-Bangkit/Findup-ML)**: Contains trained models.
+
+### Cloud Computing
+- **Tech Stack**: FastAPI, Firebase, and Cloud SQL.
+- **[API CC](https://github.com/Timnas-Bangkit/API-CC)** & **[API ML](https://github.com/Timnas-Bangkit/API-ML)**: Discover how we efficiently handle and secure cloud-based data storage.
+  
+### Mobile Development
+- **Tech Stack**: Android SDK, Kotlin, Retrofit.
+- **[App Repository](https://github.com/Timnas-Bangkit/Findup-MD)**: Source code for the Android app.
+
+---
